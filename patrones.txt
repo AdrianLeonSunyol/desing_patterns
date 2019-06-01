@@ -1,0 +1,42 @@
+"each pattern represents our current best guess as to
+what arrangement of the physical environment will work
+to solve the problem represented"
+
+Christopher Alexander
+
+Christopher Alexander da la siguiente definición de patrón: 
+“Cada patrón describe un problema que ocurre una y otra vez 
+en nuestro entorno, para describir después el núcleo de la 
+solución a ese problema, de tal manera que esa solución pueda 
+ser usada más de un millón de veces sin hacerlo ni siquiera 
+dos veces de la misma forma”.
+
+"The empirical questions center on the problem 
+    --does it occur and is it felt in the way 
+    we have described it?"
+    "and the solution 
+        --does the arrangement we propose in fact resolve 
+        the problem?"
+
+**PATRONES**
+    -Creational: creation of instance of a new 
+    object.
+        -Constructor
+        -Module
+        -Factory
+        -Singleton
+    -Structural: deal with creating new objects,
+    makeup of the actual object themselves
+        - Decorator
+        - Facade
+        - Flyweight
+    -Behavioral: Deal more with how objects 
+    relate to each other and how they operate,
+    as opposed to the structure or getting
+    an new instance of something
+        - Command
+        - Mediator
+        - Observer
+
+    Book "Gang of four"
+

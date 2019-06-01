@@ -1,0 +1,6 @@
+*
+    Three ways to create objects
+    Assigning and reading values
+    Define properties
+    Inheritance
+    
