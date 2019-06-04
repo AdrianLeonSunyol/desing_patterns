@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Cashier",
+            "request": "launch",
+            "mainClass": "builder.comida.Cashier",
+            "projectName": "creational_patterns"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BuilderDemo",
+            "request": "launch",
+            "mainClass": "builder.BuilderDemo",
+            "projectName": "creational_patterns"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - factoryMethodDemo",
+            "request": "launch",
+            "mainClass": "factoryMethod.factoryMethodDemo",
+            "projectName": "creational_patterns"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SingletonDemo",
+            "request": "launch",
+            "mainClass": "singleton.SingletonDemo",
+            "projectName": "creational_patterns"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "creational_patterns"
+        }
+    ]
+}

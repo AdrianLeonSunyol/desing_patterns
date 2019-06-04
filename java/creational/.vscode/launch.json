@@ -1,0 +1,45 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "pattern.App"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "creational_patterns"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SingletonDbDemo",
+            "request": "launch",
+            "mainClass": "singleton.dbAdd.SingletonDbDemo",
+            "projectName": "creational_patterns"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - factoryMethodDemo",
+            "request": "launch",
+            "mainClass": "factoryMethod.factoryMethodDemo",
+            "projectName": "creational_patterns"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SingletonDemo",
+            "request": "launch",
+            "mainClass": "singleton.SingletonDemo",
+            "projectName": "creational_patterns"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "creational_patterns"
+        }
+    ]
+}
