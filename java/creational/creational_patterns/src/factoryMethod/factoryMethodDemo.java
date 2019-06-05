@@ -24,10 +24,13 @@ public class factoryMethodDemo {
         //enum
         WebSite site = WebsiteFactory.getWebsite(WebsiteType.BLOG);
         System.out.println(site.getPages());
+        System.out.println(site);
+
         site = WebsiteFactory.getWebsite(WebsiteType.SHOP);
         System.out.println(site.getPages()); 
+        System.out.println(site);
 
-        Vehicle v = VehicleFactory.getInstance("moto");
+        /*Vehicle v = VehicleFactory.getInstance("moto");
         System.out.println(v.getPiezas());
 
         //productos
@@ -53,6 +56,6 @@ public class factoryMethodDemo {
 
         app = DocumentFactory.getApplication("calculator");
         app.newDocument();
-        System.out.println(app.getDoc());
+        System.out.println(app.getDoc());*/
     }
 }

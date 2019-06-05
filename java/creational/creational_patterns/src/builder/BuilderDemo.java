@@ -32,8 +32,5 @@ public class BuilderDemo {
         System.out.println(lunchorder.getCondiments());
         System.out.println(lunchorder.getDressing());
         System.out.println(lunchorder.getMeat());
-
-
-
     }
 }

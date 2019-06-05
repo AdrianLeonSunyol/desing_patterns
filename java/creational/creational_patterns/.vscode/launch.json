@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PersonalInformationDemo",
+            "request": "launch",
+            "mainClass": "abstractFactory.PersonalInformation.PersonalInformationDemo",
+            "projectName": "creational_patterns"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AbstractFactoryDemo",
+            "request": "launch",
+            "mainClass": "abstractFactory.AbstractFactoryDemo",
+            "projectName": "creational_patterns"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChildMenuDemo",
+            "request": "launch",
+            "mainClass": "builder.childMenu.ChildMenuDemo",
+            "projectName": "creational_patterns"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Cashier",
             "request": "launch",
             "mainClass": "builder.comida.Cashier",
